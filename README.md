@@ -1,2 +1,3 @@
 # hello-world
-First Project
+First Project 
+First try in Git 
